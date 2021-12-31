@@ -8,7 +8,7 @@
 - [内外网 DNS 分流解决方案](https://blog.whyun.com/posts/local-dns-masq/)
 - [Node 的缺陷](https://blog.whyun.com/posts/the-defect-of-node/)
 - [服务发现揭秘](https://blog.whyun.com/posts/service-discovery-start/)
-- [k8s 原理入门](https://blog.whyun.com/posts/k8s-startup/)
+- [k8s 网络原理入门](https://blog.whyun.com/posts/k8s-startup/)
 - [docker compose 教程](https://blog.whyun.com/posts/docker-compose-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
