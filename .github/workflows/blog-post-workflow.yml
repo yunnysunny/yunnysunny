@@ -15,3 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.whyun.com/atom.xml"
+          template: $date [$title]($url)
+          date_format: yyyy-mm-dd
