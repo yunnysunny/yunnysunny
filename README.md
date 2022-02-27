@@ -5,11 +5,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- 2022-02-27 [k8s 部署文件简谈](https://blog.whyun.com/posts/k8s-yaml/)
 - 2022-02-20 [微服务在前端的落地](https://blog.whyun.com/posts/micro-for-frontend/)
 - 2022-02-20 [微服务改造心路历程](https://blog.whyun.com/posts/micro-reform-milestones/)
 - 2022-02-19 [某千里智能笔的深思](https://blog.whyun.com/posts/smarty-pen-issue/)
-- 2022-01-24 [prometheus 启航](https://blog.whyun.com/posts/prometheus-startup/)
-- 2021-12-13 [内外网 DNS 分流解决方案](https://blog.whyun.com/posts/local-dns-masq/)<!-- BLOG-POST-LIST:END -->
+- 2022-01-24 [prometheus 启航](https://blog.whyun.com/posts/prometheus-startup/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Some Statistics About Me
