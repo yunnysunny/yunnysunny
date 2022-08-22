@@ -5,11 +5,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- 2022-08-22 [DNS 解析失败问题追踪](https://blog.whyun.com/posts/dns-lookup-failed-due-to-udp-cache/)
+- 2022-08-22 [kafka lag 空洞问题](https://blog.whyun.com/posts/kafka-lag-hollow/)
 - 2022-08-06 [不同版本 http 协议 TCP 实现方式解析](https://blog.whyun.com/posts/transport-layer-differences-among-http-versions/)
 - 2022-02-27 [k8s 部署文件简谈](https://blog.whyun.com/posts/k8s-yaml/)
-- 2022-02-20 [微服务在前端的落地](https://blog.whyun.com/posts/micro-for-frontend/)
-- 2022-02-20 [微服务改造心路历程](https://blog.whyun.com/posts/micro-reform-milestones/)
-- 2022-02-19 [某千里智能笔的深思](https://blog.whyun.com/posts/smarty-pen-issue/)<!-- BLOG-POST-LIST:END -->
+- 2022-02-20 [微服务在前端的落地](https://blog.whyun.com/posts/micro-for-frontend/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Some Statistics About Me
