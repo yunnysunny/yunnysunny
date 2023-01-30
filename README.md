@@ -21,7 +21,7 @@
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
-<a href="https://profile.codersrank.io/user/yunnysunny/"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yunnysunny&skills=JavaScript,TypeScript,C%2B%2B,C,Go,Java,Shell,Dockerfile&show-other-skills=true" /></a>
+<a href="https://profile.codersrank.io/user/yunnysunny/"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yunnysunny&skills=JavaScript,TypeScript,C%2B%2B,C,Go,Java,Shell,Dockerfile&show-other-skills=false" /></a>
 </details>
 
 
