@@ -5,11 +5,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- 2023-12-22 [gitlab docker 模式 runner](https://blog.whyun.com/posts/gitlab-runner-docker/)
 - 2023-02-25 [独辟蹊径使用 node 开发桌面程序](https://blog.whyun.com/posts/node-desktop-hack/)
 - 2022-08-28 [gitlab ci 简明教程](https://blog.whyun.com/posts/gitlab-ci-tutorial/)
 - 2022-08-22 [DNS 解析失败问题追踪](https://blog.whyun.com/posts/dns-lookup-failed-due-to-udp-cache/)
-- 2022-08-22 [kafka lag 空洞问题](https://blog.whyun.com/posts/kafka-lag-hollow/)
-- 2022-08-06 [不同版本 http 协议 TCP 实现方式解析](https://blog.whyun.com/posts/transport-layer-differences-among-http-versions/)<!-- BLOG-POST-LIST:END -->
+- 2022-08-22 [kafka lag 空洞问题](https://blog.whyun.com/posts/kafka-lag-hollow/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Some Statistics About Me
