@@ -5,11 +5,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- 2024-02-17 [gitlab ci 系列教程（四）—— 使用单元测试](https://blog.whyun.com/posts/gitlab-ci-unit-test/)
 - 2024-02-06 [gitlab ci 系列教程（三）—— 在 Node.js 项目中使用缓存](https://blog.whyun.com/posts/gitlab-ci-cache-in-node/)
 - 2023-12-22 [gitlab ci 系列教程（二）—— docker 模式 runner](https://blog.whyun.com/posts/gitlab-runner-docker/)
 - 2023-02-25 [独辟蹊径使用 node 开发桌面程序](https://blog.whyun.com/posts/node-desktop-hack/)
-- 2022-08-28 [gitlab ci 系列教程（一）—— runner 配置和 yaml 文件编写](https://blog.whyun.com/posts/gitlab-ci-tutorial/)
-- 2022-08-22 [DNS 解析失败问题追踪](https://blog.whyun.com/posts/dns-lookup-failed-due-to-udp-cache/)<!-- BLOG-POST-LIST:END -->
+- 2022-08-28 [gitlab ci 系列教程（一）—— runner 配置和 yaml 文件编写](https://blog.whyun.com/posts/gitlab-ci-tutorial/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Some Statistics About Me
