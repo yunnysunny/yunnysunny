@@ -5,7 +5,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 2024-06-26 [cloudflare page 教程（一）路由配置](https://blog.whyun.com/posts/routers-on-cloudflare-pages/)
+- 2024-06-26 [cloudflare page 教程（二）路由配置](https://blog.whyun.com/posts/routers-on-cloudflare-pages/)
 - 2024-05-23 [cloudflare page 教程（一）项目初始化](https://blog.whyun.com/posts/project-init-on-cloudflare-pages/)
 - 2024-05-21 [CDN遇险惊魂夜](https://blog.whyun.com/posts/attack-and-defense-on-cdn/)
 - 2024-02-16 [gitlab ci 系列教程（四）—— 使用单元测试](https://blog.whyun.com/posts/gitlab-ci-unit-test/)
