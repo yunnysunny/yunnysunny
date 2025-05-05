@@ -5,11 +5,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- 2025-04-30 [mcp协议的前世今生](https://blog.whyun.com/posts/mcp-history/)
+- 2025-04-19 [从 ingress 到 istio](https://blog.whyun.com/posts/from-ingress-to-istio/)
 - 2024-06-26 [cloudflare page 教程（二）路由配置](https://blog.whyun.com/posts/routers-on-cloudflare-pages/)
 - 2024-05-23 [cloudflare page 教程（一）项目初始化](https://blog.whyun.com/posts/project-init-on-cloudflare-pages/)
-- 2024-05-21 [CDN遇险惊魂夜](https://blog.whyun.com/posts/attack-and-defense-on-cdn/)
-- 2024-02-16 [gitlab ci 系列教程（四）—— 使用单元测试](https://blog.whyun.com/posts/gitlab-ci-unit-test/)
-- 2024-02-05 [gitlab ci 系列教程（三）—— 在 Node.js 项目中使用缓存](https://blog.whyun.com/posts/gitlab-ci-cache-in-node/)<!-- BLOG-POST-LIST:END -->
+- 2024-05-21 [CDN遇险惊魂夜](https://blog.whyun.com/posts/attack-and-defense-on-cdn/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Some Statistics About Me
