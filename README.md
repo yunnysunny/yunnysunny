@@ -5,11 +5,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- 2026-03-28 [中国人工智能历史编年史科幻篇](https://blog.whyun.com/posts/chinese-ai-history-fantasy/)
 - 2025-04-30 [mcp协议的前世今生](https://blog.whyun.com/posts/mcp-history/)
 - 2025-04-19 [从七层代理到服务网格：K8S 中 Ingress 与 Istio 的对比与实战应用](https://blog.whyun.com/posts/from-ingress-to-istio/)
 - 2024-06-26 [cloudflare page 教程（二）路由配置](https://blog.whyun.com/posts/routers-on-cloudflare-pages/)
-- 2024-05-23 [cloudflare page 教程（一）项目初始化](https://blog.whyun.com/posts/project-init-on-cloudflare-pages/)
-- 2024-05-21 [CDN遇险惊魂夜](https://blog.whyun.com/posts/attack-and-defense-on-cdn/)<!-- BLOG-POST-LIST:END -->
+- 2024-05-23 [cloudflare page 教程（一）项目初始化](https://blog.whyun.com/posts/project-init-on-cloudflare-pages/)<!-- BLOG-POST-LIST:END -->
 
 
 ## Some Statistics About Me
